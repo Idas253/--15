@@ -1,0 +1,8 @@
+C:\Users\perde\source\repos\10, 11, 12 Лаба\15 Л\bin\Debug\_15_Л.exe.config
+C:\Users\perde\source\repos\10, 11, 12 Лаба\15 Л\bin\Debug\_15_Л.exe
+C:\Users\perde\source\repos\10, 11, 12 Лаба\15 Л\bin\Debug\_15_Л.pdb
+C:\Users\perde\source\repos\10, 11, 12 Лаба\15 Л\obj\Debug\15 Л.csproj.AssemblyReference.cache
+C:\Users\perde\source\repos\10, 11, 12 Лаба\15 Л\obj\Debug\15 Л.csproj.CoreCompileInputs.cache
+C:\Users\perde\source\repos\10, 11, 12 Лаба\15 Л\obj\Debug\_15_Л.exe
+C:\Users\perde\source\repos\10, 11, 12 Лаба\15 Л\obj\Debug\_15_Л.pdb
+C:\Users\perde\source\repos\10, 11, 12 Лаба\15 Л\obj\Debug\_15_Л.exe.config

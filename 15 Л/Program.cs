@@ -85,7 +85,7 @@ namespace _15_Л
                     Cloth clothes = cloth[i];
 
 
-                    if (clothes is GirlCloth itemForMen)
+                    if (clothes is GirlCloth itemForGirl)
                     {
                         itemForMen.GirlToCloth();
                     }
@@ -111,3 +111,4 @@ namespace _15_Л
         }
     }
 }
+
